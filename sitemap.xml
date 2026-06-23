@@ -3,37 +3,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>https://YOURUSERNAME.github.io/REPOSITORYNAME/</loc>
+<loc>https://krithika2812.github.io/demo-clinic-website/</loc>
 </url>
 
 <url>
-<loc>https://YOURUSERNAME.github.io/REPOSITORYNAME/hair-transplant.html</loc>
+<loc>https://krithika2812.github.io/demo-clinic-website/hair-transplant.html</loc>
 </url>
 
 <url>
-<loc>https://YOURUSERNAME.github.io/REPOSITORYNAME/prp-treatment.html</loc>
+<loc>https://krithika2812.github.io/demo-clinic-website/prp-treatment.html</loc>
 </url>
 
 <url>
-<loc>https://YOURUSERNAME.github.io/REPOSITORYNAME/acne-treatment.html</loc>
+<loc>https://krithika2812.github.io/demo-clinic-website/acne-treatment.html</loc>
 </url>
 
 <url>
-<loc>https://YOURUSERNAME.github.io/REPOSITORYNAME/chemical-peeling.html</loc>
+<loc>https://krithika2812.github.io/demo-clinic-website/chemical-peeling.html</loc>
 </url>
 
 <url>
-<loc>https://YOURUSERNAME.github.io/REPOSITORYNAME/contact.html</loc>
+<loc>https://krithika2812.github.io/demo-clinic-website/contact.html</loc>
 </url>
 
-  <url>
-  <loc>https://krithika2812.github.io/demo-clinic-website/blog-hair-transplant-cost.html</loc>
-</url>
 <url>
-  <loc>https://krithika2812.github.io/demo-clinic-website/blog-prp-benefits.html</loc>
+<loc>https://krithika2812.github.io/demo-clinic-website/blog-hair-transplant-cost.html</loc>
 </url>
+
 <url>
-  <loc>https://krithika2812.github.io/demo-clinic-website/blog-acne-scar-removal.html</loc>
+<loc>https://krithika2812.github.io/demo-clinic-website/blog-prp-benefits.html</loc>
+</url>
+
+<url>
+<loc>https://krithika2812.github.io/demo-clinic-website/blog-acne-scar-removal.html</loc>
 </url>
 
 </urlset>
